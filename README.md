@@ -1,0 +1,2 @@
+# array
+exercicio sobre array 
